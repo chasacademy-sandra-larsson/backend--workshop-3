@@ -42,5 +42,6 @@ Du ska även strukturera din kod enligt Linus föreläsning eller enligt egna pr
 * Vad är ett REST API?
 * Ha koll på klient-server modellen, request/response-cykeln
 * Ha koll på HTTP-statuskoder
+* Du kanske inte använder middleware denna workshop, men vad kan det användas till?
 
 
