@@ -6,7 +6,7 @@
 ### Innehåll denna workshop:
 
 * Skapa REST API
-* Använda Postman eller Insomnnia för att testa API:et
+* Använda Postman eller Insomnia för att testa API:et
 * Mer kunskap om Express och routing
 * Testa användning av middleware (även om det inte behöver användas i REST API:et som skapas denna workshop)
 * Struktera upp applikation för ett API och flera resurser och routes
