@@ -20,9 +20,9 @@
 # 👩🏽‍💻 Uppvärmning: Testa API med Postman (eller Insomnia)
 
 
-Skapa en testfil, exempelvis ```routes-test.js```, använd Express och CRUD:a för HTTP-metoderna GET, POST, PUT, PATCH, DELETE och skickar ut lämplig stränd på ```res.send```. Testa med Postman att alla routes fungerar. 
+Skapa en testfil, exempelvis ```routes-test.js```, använd Express och CRUD:a för HTTP-metoderna GET, POST, PUT, PATCH, DELETE och skickar ut lämplig sträng på ```res.send```. Testa med Postman att alla routes fungerar. Prova också att använda en eller flera url-parametrar.
 
-Bonus; Testa att skapa en valfri middleware. 
+Bonus: Testa att skapa en valfri middleware. 
 
 Ta hjälp av dokumentation på [https://expressjs.com/](https://expressjs.com/)
 
